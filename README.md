@@ -15,8 +15,3 @@ A basic Todo List application that runs in the browser using JavaScript prompts.
 - **list**: Shows all todos with their index numbers.
 - **delete**: Prompts for an index and deletes the corresponding todo.
 - **quit**/**q**: Quits the application.
-
-## Technologies Used
-
-- **HTML**: Basic structure of the app.
-- **JavaScript**: Used to manage and interact with the todos via prompts.
