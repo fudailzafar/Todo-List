@@ -1,7 +1,6 @@
 import ListItem from "@mui/material/ListItem";
 import TextField from "@mui/material/TextField";
 import Create from "@mui/icons-material/Create";
-import DeleteIcon from "@mui/icons-material/Delete";
 import { InputAdornment } from "@mui/material";
 import { IconButton } from "@mui/material";
 import { useState } from "react";
